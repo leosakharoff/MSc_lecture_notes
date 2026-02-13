@@ -57,8 +57,8 @@ GROUP_REPOS = [
     ],
     [
         "group i",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "I Terroni",
+        ["https://github.com/stegish/I-Terroni-DevOps"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
